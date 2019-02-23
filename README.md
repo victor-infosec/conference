@@ -27,7 +27,7 @@
   - A Dive in to Hyper-V Architecture & Vulnerabilities
 
 ## GITC 2018网络安全专场
- - 渗透中的权限维持
+ - **渗透中的权限维持 - Victor**
 
 ## HITB SecConf 2018 (Dubai)
  - Creating Custom Browser Extensions to Hunt Low Hanging Fruits
