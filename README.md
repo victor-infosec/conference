@@ -1,4 +1,4 @@
-# conconference
+# conference
 
 - **不包含无线安全、IoT安全、硬件安全、区块链安全、AI安全、移动安全、智能汽车安全、4G/5G安全**
 - **非常欢迎推荐会议资源**
@@ -59,7 +59,7 @@
  - Ned Williamson, “Exploiting Chrome IPC”
  - Yunhai Zhang, “Diving into Windows Defender Application Guard”
  - Samuel Groß, “IPC MitM: Exploiting a Fun Logic Bug for Kernel-Mode Code Execution on MacOS”
- - 
+ 
  ## 2018京东HITB安全峰会
  - Taint Driven Crash Analysis
  - Expediting Exploitability Assessment Through an Exploitation Facilitation Framework
