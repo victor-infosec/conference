@@ -13,3 +13,10 @@
 ## 2019滴滴信息安全大会
 
 - Docker逃逸：从一个进程崩溃讲起
+
+## BlueHat IL 2019
+
+- PE-sieve：An Open-Source Process Scanner for Hunting and Unpacking Malware
+- Make Static Instrumentation Great Again：High Performance Fuzzing for Windows System
+- You (dis)liked mimikatz Wait for kekeo
+- Attacking Edge Through the JavaScript Just-In-Time Compiler
