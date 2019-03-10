@@ -20,3 +20,16 @@
 - Make Static Instrumentation Great Again：High Performance Fuzzing for Windows System
 - You (dis)liked mimikatz Wait for kekeo
 - Attacking Edge Through the JavaScript Just-In-Time Compiler
+
+## RSA 2019
+
+- 12 Ways to Hack MFA
+- Securely Deploying Micro Services, Containers & Serverless PaaS Web Apps
+- Quantum Chosen-Ciphertext Attacks against Feistel Ciphers 
+- Combatting the Scourge of Fileless Attacks
+- Red Team View：Gaps in the Serverless Attack Surface.
+- Virtual Pen Testing Using Risk Models
+- ATT&CK in Practice A Primer to Improve Your Cyber Defense
+- Lost Boys：How Linux and mac Intersect in a Windows-Centric Security World
+- 
+
