@@ -89,3 +89,11 @@
 - Secure SDLC Practices in Smart Contracts Development
 - Hacking You Without Password
 - WASM
+
+## ISC 2018
+
+#### 漏洞挖掘与源代码安全论坛
+
+- DOM-XSS挖掘与攻击面延伸
+- 对内核中“二次获取”漏洞的精确以及 大范围检测
+- Fuzzing on Train_AI制导PDF文件生成技术的探索之旅
