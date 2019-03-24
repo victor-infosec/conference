@@ -97,3 +97,48 @@
 - DOM-XSS挖掘与攻击面延伸
 - 对内核中“二次获取”漏洞的精确以及 大范围检测
 - Fuzzing on Train_AI制导PDF文件生成技术的探索之旅
+
+## BlackHat USA 2018
+
+- Edge Side Include Injection: Abusing Caching Servers into SSRF and Transparent Session Hijacking
+- Finding Xori: Malware Analysis Triage with Automated Disassembly
+- Measuring the Speed of the Red Queen's Race; Adaption and Evasion in Malware
+- A Dive in to Hyper-V Architecture & Vulnerabilities
+- Miasm: Reverse Engineering Framework
+- New Trends in Browser Exploitation: Attacking Client-Side JIT Compilers
+- Compression Oracle Attacks on VPN Networks
+- Remotely Attacking System Firmware
+- An Attacker Looks at Docker: Approaching Multi-Container 
+- Every ROSE has its Thorn: The Dark Art of Remote Online Social Engineering
+- From Workstation to Domain Admin: Why Secure Administration isn't Secure and How to Fix it
+- Subverting Sysmon: Application of a Formalized Security Product Evasion Methodology
+- WireGuard: Next Generation Secure Network Tunnel
+- Breaking Parser Logic: Take Your Path Normalization off and Pop 0days Out!
+- Open Sesame: Picking Locks with Cortana
+- Squeezing a Key through a Carry Bit
+- Why so Spurious? How a Highly Error-Prone x86/x64 CPU "Feature" can be Abused to Achieve Local Privilege Escalation on Many Operating Systems
+- AFL's Blindspot and How to Resist AFL Fuzzing for Arbitrary ELF Binaries
+- A Tangled Curl: Attacks on the Curl-P Hash Function Leading to Signature Forgeries in the IOTA Signature Scheme
+- The Problems and Promise of WebAssembly
+- Two-Factor Authentication, Usable or Not? A Two-Phase Usability Study of the FIDO U2F Security Key
+- Identity Theft: Attacks on SSO Systems\
+- Kernel Mode Threats and Practical Defenses
+- A Deep Dive into macOS MDM (and How it can be Compromised)
+- Are You Trading Stocks Securely? Exposing Security Flaws in Trading Technologies
+- Decompiler Internals: Microcode
+- Detecting Malicious Cloud Account Behavior: A Look at the New Native Platform Capabilities
+- Efail: Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels
+- Playback: A TLS 1.3 Story
+- WebAssembly: A New World of Native Exploits on the Browser
+- Automated Discovery of Deserialization Gadget Chains
+- Another Flip in the Row
+- From Thousands of Hours to a Couple of Minutes: Automating Exploit Generation for Arbitrary Types of Kernel Vulnerabilities
+- Windows Offender: Reverse Engineering Windows Defender's Antivirus Emulator
+- Mainframe [z/OS] Reverse Engineering and Exploit Development
+- Practical Web Cache Poisoning: Redefining 'Unexploitable'
+- DeepLocker - Concealing Targeted Attacks with AI Locksmithing
+- Follow the White Rabbit: Simplifying Fuzz Testing Using FuzzExMachina
+- It's a PHP Unserialization Vulnerability Jim, but Not as We Know It
+- Return of Bleichenbacher's Oracle Threat (ROBOT)
+- The Finest Penetration Testing Framework for Software-Defined Networks
+- Unpacking the Packed Unpacker: Reverse Engineering an Android Anti-Analysis Native Library
