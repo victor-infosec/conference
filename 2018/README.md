@@ -142,3 +142,19 @@
 - Return of Bleichenbacher's Oracle Threat (ROBOT)
 - The Finest Penetration Testing Framework for Software-Defined Networks
 - Unpacking the Packed Unpacker: Reverse Engineering an Android Anti-Analysis Native Library
+
+## 2018先知白帽大会
+
+- 1_先知白帽大会-开场演讲_猪猪侠
+-  2_macOS 上的逻辑提权漏洞_菜丝
+- 3_弑君者Kingslayer-供应链攻击前餐_redrain
+- 4_代码审计点线面实战_jkgh006
+- 5_边信道攻击_Kevin2600
+- 6_從一個脆弱點到整個攻擊鏈_Orange+Tsai
+- 7_攻击GraphQL_phithon
+- 8_Java反序列化实战_廖新喜
+- 9_智能合约消息调用攻防_隐形人很忙
+- 10_从数据视角探索安全威胁_cdxy
+- 11_WEB2.0启发式爬虫实战_猪猪侠
+- 12_如何利用Ryuk分析和挖掘macOS&iOS内核驱动漏洞_白小龙&蒸米
+
