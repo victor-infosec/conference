@@ -31,5 +31,10 @@
 - Virtual Pen Testing Using Risk Models
 - ATT&CK in Practice A Primer to Improve Your Cyber Defense
 - Lost Boys：How Linux and mac Intersect in a Windows-Centric Security World
-- 
 
+## NULLCON GOA'19
+
+- Fuzzing embedded (trusted) operating systems using AFL
+- PEW PEW PEW Designing Secure Boot Securely
+- EDR Internals and Bypasses
+- <https://www.youtube.com/playlist?list=PLWv48qIcomCbp_YTldbGomIZADvwL0gYb>
