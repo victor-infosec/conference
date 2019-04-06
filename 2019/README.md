@@ -38,3 +38,16 @@
 - PEW PEW PEW Designing Secure Boot Securely
 - EDR Internals and Bypasses
 - <https://www.youtube.com/playlist?list=PLWv48qIcomCbp_YTldbGomIZADvwL0gYb>
+
+## 2019 PSRC白帽子安全沙龙上海站
+
+- PSRC小目标，挣他一个亿
+
+## 2019台湾资安大会
+
+- 突破困境：資安開源工具之應用分享
+- 日防夜防，家賊難防 — 如何防止內部攻擊與資料失竊
+- The elf in ELF - 如何利用零日漏洞欺騙所有的反組譯工具
+
+
+
