@@ -9,6 +9,7 @@
 - FuzzIL：Guided Fuzzing for JavaScript Engines
 - Bypass Windows Exploit Guard ASR
 - 3D Accelerated Exploitation
+- <https://www.youtube.com/channel/UCMNvAtT4ak2azKNk6UlB1QQ/videos>
 
 ## 2019滴滴信息安全大会
 
