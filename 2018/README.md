@@ -158,3 +158,39 @@
 - 11_WEB2.0启发式爬虫实战_猪猪侠
 - 12_如何利用Ryuk分析和挖掘macOS&iOS内核驱动漏洞_白小龙&蒸米
 
+## 2018看雪安全开发者峰会
+
+- 潜伏在PHP Manual背后的特性及漏洞
+- 被“幽灵”所困扰的浏览器
+- TCP的厄运，网络协议侧信道分析及利用
+
+## 2018复旦大学安全沙龙
+
+- 我的Web应用安全模糊测试之路
+
+## 2018VSRC城市沙龙北京站
+
+- 模板注入Flask
+
+## 2018补天&斗鱼白帽城市沙龙
+
+- XSS漏洞挖掘与安全防护
+- 自动化代码审计de一些思路与局限
+- 从补天漏洞挖掘思考企业安全
+- 补天&斗鱼-跨域资源那些事
+
+## 2018 DEFCON GROUP 0571
+
+- Linux内核的花花世界
+
+## RSA 2018
+
+- The bottom of the barrel scraping pastebin for obfuscated malware
+- Repronow save time reproducing and triaging security bugs
+- red team vs. blue team on aws
+- I forgot your password breaking modern password recovery systems
+- When in russia hacking vice abroad
+- Hacking closed networks
+- Modern exploitation owning all of the things
+- Ccleaner apt attack a technical look inside
+
