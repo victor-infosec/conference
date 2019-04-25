@@ -32,6 +32,9 @@
  - NTLM Relay Is Dead Long Live NTLM Relay
 
 ## Zero Nights 2018 (Russia)
+
+#### web village
+
  - PHP insecurity stack (RU)
  - CSP bypass
  - Defence, change my mind
@@ -43,6 +46,21 @@
  - Atypical vulnerabilities
  - Spel injection
  - Introduction into browser hacking
+
+#### main stage
+
+- Diffing C source codes to binaries
+- Issues in Node.js Desktop applications (hypster_mode_ON in development)
+- Vulnerability in compiler leads to stealth backdoor in software
+- Ways to automate testing Linux kernel exploits
+- Ntlm Relay Reloaded: Attack methods you do not know
+- ELF execution in Linux RAM
+- Unveiling the cloak: A behind-the-scenes look at what happens when you click that link
+- Automated approach to the analysis of network devices security
+- SD-WAN Internet Census
+- Redis post-exploitation
+- Reveal the unseen: Getting access to sensitive data with graphic file editing libraries
+- Who owned your code: Attack surfaces against Git web servers used by thousands of developers
 
 ## POC 2018 (Korea)
  - Denis Kolegov, Oleg Broslavsky, “WebGoat.SDWAN.Net in Depth”
