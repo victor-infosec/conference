@@ -50,5 +50,59 @@
 - 日防夜防，家賊難防 — 如何防止內部攻擊與資料失竊
 - The elf in ELF - 如何利用零日漏洞欺騙所有的反組譯工具
 
+## 2019腾讯安全国际技术峰会
 
+- Growing Hypervisor 0day with Hyperseed
 
+## Sans Summit 2019
+
+### Open-Source Intelligence Summit
+
+- Backdoors to the Kingdom：Changing the Way You Think about Organizational Reconnaissance
+- Hunting Down Malicious Sites Using Certstream Data and Available Web Services
+
+### Blue Team Summit
+
+- Skill Sharpening at the CyberRange：Developing the Next-Generation Blue Team
+
+### Enterprise Defense Summit
+
+- The Offensive Defender：Cyberspace Trapping
+- Do-It-Yourself ATT&CK Evaluations to Improve YOUR Security Posture
+- Assumed Breach：A Better Model for Penetration Testing
+
+## Pass the SALT 2019
+
+### Free Software Projects under Stress
+
+- Time-efficient assessment of open-source projects for Red Teamers
+- Hacking Jenkins ！
+
+### Be API and Secured
+
+- JWAT… Attacking JSON Web Tokens
+
+### Rumps Session
+
+- $0.02 DNS Firewall with MISP
+
+### Security on the Internets
+
+- D4 Project - Design and Implementation of an Open Source Distributed and Collaborative Security Monitoring
+- Better curl ！
+
+### Low Level Hacking and Breaking
+
+- KILL MD5 demystifying hash collisions
+- cwe_checker：Hunting Binary Code Vulnerabilities Across CPU Architectures
+
+### Workshops
+
+- Let’s play CollTris - understand and exploit hash collisions
+- Introduction to Osquery
+
+## 2019 ASRC生态大会
+
+- Abusing WCF Endpoints for RCE and Privilege Escalation
+- Recon ASRC Conf
+- 从0到1，发现与拓展攻击面
