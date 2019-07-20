@@ -106,3 +106,18 @@
 - Abusing WCF Endpoints for RCE and Privilege Escalation
 - Recon ASRC Conf
 - 从0到1，发现与拓展攻击面
+
+## BlueHat Shanghai 2019
+
+- 信誉危机：广受认可的硬件和软件遭遇信任危机
+- MesaTEE SGX：借助 Intel SGX 重新定义人工智能和大数据分析
+- Liar Game：The Secret of Mitigation Bypass Techniques
+- From Dvr to See Exploit of IoT Device
+- Kubernetes集群渗透：攻击者视角中的Kubernetes
+- Exploring The Maze Of Memory Layouts Towards Exploits
+- 使用数据流敏感模糊测试发现漏洞
+- 如何在3个月发现12个内核信息泄露漏洞
+- 大海捞针：使用沙箱捕获多个零日漏洞
+- Momigari：最新的Windows操作系统内核在野漏洞概述
+- 2018年浏览器脚本引擎零日漏洞
+- 针对智能设备漏洞挖掘的一些新方法
