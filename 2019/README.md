@@ -121,3 +121,33 @@
 - Momigari：最新的Windows操作系统内核在野漏洞概述
 - 2018年浏览器脚本引擎零日漏洞
 - 针对智能设备漏洞挖掘的一些新方法
+
+## BlackHat Asia 2019
+
+- CQTools New Ultimate Hacking Toolkit WP
+- Intel Visa Through the Rabbit Hole
+- Keep Everyone In Sync Effective Approaches Borrowed From Open Source Communities
+- Efficient Approach to Fuzzing Interpreter WP
+- Ghosts in a Nutshell WP
+- Preloading Insecurity In Your Electron WP
+- Attacking Browser Sandbox
+- MS Office in Wonderland
+- How to Survive the Hardware Assisted Control Flow Integrity Enforcement
+- Industrial Remote Controller WP
+- Finally I Can Sleep Tonight Catching Sleep Mode Vulnerabilities of the TPM with the Napper
+- Efficient Approach to Fuzzing Interpreters
+- Make Redirection Evil Again WP
+- Make Redirection Evil Again
+- Preloading Insecurity In Your Electron
+- CQTools New Ultimate Hacking Toolkit
+- Automated REST API Endpoint
+- Industrial Remote Controller
+- Dive into VxWorks Based IoT Device Debug the Undebugable Device
+- Winter is Coming Back Rowhammer
+- Using the JIT Vulnerability to Pwning Microsoft Edge
+- Oh No KPTI Defeated Unauthorized Data Leakage is Still Possible
+- NetSpectre A Truly Remote Spectre Variant
+- Ghosts in a Nutshell
+- Zombie Poodle Goldendoodle and How TLSv13 Can Save Us All
+- The Cost of Learning From the Best How Prior Knowledge Weakens the Security of Deep Neural Networks
+- DevSecOps What，Why and How
