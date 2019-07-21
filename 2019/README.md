@@ -151,3 +151,17 @@
 - Zombie Poodle Goldendoodle and How TLSv13 Can Save Us All
 - The Cost of Learning From the Best How Prior Knowledge Weakens the Security of Deep Neural Networks
 - DevSecOps What，Why and How
+
+## INFILTRATE 2019
+
+- Three Heads are Better Than One: Mastering NSA’s Ghidra Reverse Engineering Tool
+- A Bug’s Life: Story of a Solaris 0day
+- DKOM 3.0: Hiding and Hooking with Windows Extension Hosts
+- Full Steam Ahead: Remotely Executing Code in Modern Desktop Application Architectures <https://vimeo.com/335206831>
+- Device Driver Debauchery and MSR Madness
+- 2PAC 2Furious: Envisioning an iOS Compromise in 2019
+- Having Fun with COM
+- Abusing Insecure WCF Endpoints for Fun and Profit
+- Adventures in Video Conferencing
+- TEE Exploitation by Example: Exploiting Trusted Apps in Samsung’s TEE
+
