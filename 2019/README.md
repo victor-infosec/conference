@@ -165,3 +165,6 @@
 - Adventures in Video Conferencing
 - TEE Exploitation by Example: Exploiting Trusted Apps in Samsung’s TEE
 
+## 2019看雪安全开发者峰会
+
+- RDP从补丁到远程代码执行
