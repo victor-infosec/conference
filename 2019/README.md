@@ -180,3 +180,107 @@
 - PHP动态特性的捕捉与逃逸
 - 如何去挖掘物联网环境中的高级恶意软件威胁
 - 针对Docker容器网络的ARP欺骗与中间人攻击
+
+## BlackHat 2019
+
+- Every Security Team is a Software Team Now
+- Battle of Windows Service: A Silver Bullet to Discover File Privilege Escalation Bugs Automatically
+- Biometric Authentication Under Threat: Liveness Detection Hacking
+- Bypassing the Maginot Line: Remotely Exploit the Hardware Decoder on Smartphone
+- ClickOnce and You're in - When Appref-ms Abuse is Operating as Intended
+- Detecting Deep Fakes with Mice
+- Legal GNSS Spoofing and its Effects on Autonomous Vehicles
+- Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception
+- SSO Wars: The Token Menace
+- APIC's Adventures in Wonderland
+- Attacking and Defending the Microsoft Cloud (Office 365 & Azure AD) 
+- Attacking Electric Motors for Fun and Profit
+- Behind the Scenes: The Industry of Social Media Manipulation Driven by Malware
+- Dragonblood: Attacking the Dragonfly Handshake of WPA3
+- PicoDMA: DMA Attacks at Your Fingertips
+- The Most Secure Browser? Pwning Chrome from 2016 to 2019
+- All the 4G Modules Could be Hacked
+- Behind the Scenes of Intel Security and Manageability Engine
+- Cyber Insurance 101 for CISO’s
+- HTTP Desync Attacks: Smashing into the Cell Next Door https://github.com/PortSwigger/http-request-smuggler
+- I'm Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy
+- It's Not What You Know, It's What You Do: How Data Can Shape Security Engagement
+- New Vulnerabilities in 5G Networks
+- Selling 0-Days to Governments and Offensive Security Companies
+- Sensor and Process Fingerprinting in Industrial Control Systems
+- Worm Charming: Harvesting Malware Lures for Fun and Profit
+- Responding to a Cyber Attack with Missiles
+- MITRE ATT&CK: The Play at Home Edition
+- Look, No Hands! -- The Remote, Interaction-less Attack Surface of the iPhone
+- Lessons From Two Years of Crypto Audits
+- Integration of Cyber Insurance Into A Risk Management Program
+- Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs
+- Finding a Needle in an Encrypted Haystack: Leveraging Cryptographic Abilities to Detect the Most Prevalent Attacks on Active Directory
+- Come Join the CAFSA - Continuous Automated Firmware Security Analysis
+- Arm IDA and Cross Check: Reversing the Boeing 787's Core Network
+- Messaging Layer Security: Towards a New Era of Secure Group Messaging
+- Hunting for Bugs, Catching Dragons
+- How Do Cyber Insurers View The World?
+- He Said, She Said – Poisoned RDP Offense and Defense
+- Hacking Your Non-Compete
+- Flying a False Flag: Advanced C2, Trust Conflicts, and Domain Takeover
+- Controlled Chaos: The Inevitable Marriage of DevOps & Security
+- Cybersecurity Risk Assessment for Safety-Critical Systems
+- Defense Against Rapidly Morphing DDOS
+- Detecting Malicious Files with YARA Rules as They Traverse the Network
+- Going Beyond Coverage-Guided Fuzzing with Structured Fuzzing
+- MINimum Failure - Stealing Bitcoins with Electromagnetic Fault Injection
+- PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary
+- Reverse Engineering WhatsApp Encryption for Chat Manipulation and More
+- Attack Surface as a Service
+- Death to the IOC: What's Next in Threat Intelligence
+- GDPArrrrr: Using Privacy Laws to Steal Identities
+- Mobile Interconnect Threats: How Next-Gen Products May be Already Outdated
+- On Trust: Stories from the Front Lines
+- Testing Your Organization's Social Media Awareness
+- The Future of Securing Intelligent Electronic Devices Using the IEC 62351-7 Standard for Monitoring
+- WebAuthn 101 - Demystifying WebAuthn
+- Woke Hiring Won't Save Us: An Actionable Approach to Diversity Hiring and Retention
+- Selling 0-Days to Governments and Offensive Security Companies
+- Rogue7: Rogue Engineering-Station Attacks on S7 Simatic PLCs
+- Process Injection Techniques - Gotta Catch Them All https://github.com/SafeBreach-Labs/pinjectra
+- Operational Templates for State-Level Attack and Collective Defense of Countries
+- DevSecOps : What, Why and How
+- API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web
+- The Enemy Within: Modern Supply Chain Attacks
+- Rough and Ready: Frameworks to Measure Persistent Engagement and Deterrence
+- Project Zero: Five Years of 'Make 0Day Hard'
+- Playing Offense and Defense with Deepfakes
+- Denial of Service with a Fistful of Packets: Exploiting Algorithmic Complexity Vulnerabilities
+- Breaking Through Another Side: Bypassing Firmware Security Boundaries from Embedded Controller
+- All Your Apple are Belong to Us: Unique Identification and Cross-Device Tracking of Apple Devices
+- 0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars
+- Infighting Among Russian Security Services in the Cyber Sphere
+- Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale
+- Predictive Vulnerability Scoring System
+- Zombie Ant Farming: Practical Tips for Playing Hide and Seek with Linux EDRs
+- Backdooring Hardware Devices by Injecting Malicious Payloads on Microcontrollers
+- Critical Zero Days Remotely Compromise the Most Popular Real-Time OS
+- Fantastic Red-Team Attacks and How to Find Them
+- Inside the Apple T2
+- Making Big Things Better the Dead Cow Way
+-  Preventing Authentication Bypass: A Tale of Two Researchers
+- Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps
+- Towards Discovering Remote Code Execution Vulnerabilities in Apple FaceTime
+- A Compendium of Container Escapes
+- Attacking iPhone XS Max
+- Everybody be Cool, This is a Robbery!
+- Hacking Ten Million Useful Idiots: Online Propaganda as a Socio-Technical Security Project
+- HostSplit: Exploitable Antipatterns in Unicode Normalization
+- Securing Apps in the Open-By-Default Cloud
+- The Discovery of a Government Malware and an Unexpected Spy Scandal
+- The Future of ATO
+- Breaking Samsung's ARM TrustZone
+- Command Injection in F5 iRules
+- Debug for Bug: Crack and Hack Apple Core by Itself - Fun and Profit to Debug and Fuzz Apple Kernel by lldb Script
+- Exploring the New World : Remote Exploitation of SQLite and Curl
+- How to Detect that Your Domains are Being Abused for Phishing by Using DNS
+- Moving from Hacking IoT Gadgets to Breaking into One of Europe's Highest Hotel Suites
+- Paging All Windows Geeks – Finding Evil in Windows 10 Compressed Memory
+- Shifting Knowledge Left: Keeping up with Modern Application Security
+
