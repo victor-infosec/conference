@@ -284,3 +284,8 @@
 - Paging All Windows Geeks – Finding Evil in Windows 10 Compressed Memory
 - Shifting Knowledge Left: Keeping up with Modern Application Security
 
+## 2019CSS互联网安全领袖峰会
+
+- Comprehensive analysis of the mysql client attack chain
+- Sorry, It is Not Your Page
+- 对基于git的版本控制服务的通用的攻击面的探索
