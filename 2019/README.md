@@ -165,6 +165,31 @@
 - Adventures in Video Conferencing
 - TEE Exploitation by Example: Exploiting Trusted Apps in Samsung’s TEE
 
+## HITB 2019 AMSTERDAM
+
+- D1T1 - CSP - A Successful Mess Between Hardening and Mitigation - Lukas Weichselbaum & Michele Spagnuolo
+- D1T1 - Make ARM Shellcode Great Again - Saumil Shah
+- D1T1 - MBUF-OFLOW - Finding Vulnerabilities in iOS MacOS Networking Code - Kevin Backhouse
+- D1T1 - Pwning Centrally-Controlled Smart Homes - Sanghyun Park & Seongjoon Cho
+- D1T1 - SeasCoASA - Exploiting a Small Leak in a Great Ship - Kaiyi Xu & Lily Tang
+- D1T1 - The Birdman and Cospas-Sarsat Satellites - Hao Jingli
+- D1T2 - Automated Discovery of Logical Privilege Escalation Bugs in Windows 10 - Wenxu Wu & Shi Qin
+- D1T2 - fn_fuzzy - Fast Multiple Binary Diffing Triage - Takahiro Haruyama
+- D1T2 - Fresh Apples - Researching New Attack Interfaces on iOS and OSX - Moony Li & Lilang Wu
+- D1T2 - Hourglass Fuzz - A Quick Bug Hunting Method - Moony Li, Todd Han, Lance Jiang & Lilang Wu
+- D1T2 - Pwning HDMI for Fun and Profit - Jeonghoon Shin & Changhyeon Moon
+- D1T3 - Reversing with Radare2 - Arnau Gamez Montolio
+- D2T1 - Compiler Bugs and Bug Compilers - Marion Marschalek
+- D2T1 - Hacking Jenkins - Orange Tsai
+- D2T1 - Muraena - The Unexpected Phish - Michele Orru & Giuseppe Trotta
+- D2T2 - Binder - The Bridge to Root - Hongli Han & Mingjian Zhou
+- D2T2 - Improving Unicode Encoding Attacks with Deep Learning - Alfonso Munoz & Miguel Hernandez Boza
+- D2T2 - ModJack - Hijacking the MacOS Kernel - Zhi Zhou
+- D2T2 - PanicXNU 3.0 - Juwei Lin & Junzhi Lu
+- HAXPO D1 - A Decade of Infosec Tools - Thomas Debize
+- HAXPO D1 - Building an International Coordinated Bug Disclosure Bridge for the European Union - Benjamin Kunz
+- HAXPO D1 - Ghost Tunnel 2.0 - Blue Ghost - Yongtao Wang
+
 ## 2019看雪安全开发者峰会
 
 - RDP从补丁到远程代码执行
